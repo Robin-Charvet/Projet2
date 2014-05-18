@@ -1,1 +1,10 @@
 \\vmware-host\Shared Folders\Bureau\GitHub\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\vmware-host\Shared Folders\Robin sur mon Mac\GitHub\Projet2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
